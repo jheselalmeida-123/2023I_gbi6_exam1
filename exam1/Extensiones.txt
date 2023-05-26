@@ -1,0 +1,9 @@
+Extensiones de archivos
+TXT: 9
+PNG: 6
+PDF: 2
+GZ: 5
+BAM: 2
+BAI: 1
+TSV: 4
+FASTQ: 1
