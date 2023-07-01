@@ -13,9 +13,9 @@ Correo: jhesel.almeida@est.ikiam.edu.ec
 
 | Nombre del Dispositivo|  DESKTOP-LKEFEJE | 
 | --- | ----| 
-| Procesador  |  Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz   1.19 GHz |
-| RAM instalada |  12,0 GB (11,7 GB utilizable) |
-Id. del  producto |  00356-02309-56986-AAOEM | 
+| Procesador  |  AMD A9-9425 RADEON R5, 5 COMPUTE CORES 2C+3G, 3100 Mhz |
+| RAM instalada |  8,00 GB (4,96 GB utilizable) |
+Id. del  producto |  00330-80000-00000-AA118 | 
 | Tipo de sistema |  Sistema operativo de 64 bits, procesador x64 |
 
 
